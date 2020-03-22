@@ -1,0 +1,19 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/willi/Documents/EECS31L/Processor/Processor.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/willi/Documents/EECS31L/Processor/Processor.srcs/sim_1/new/tb_Controller.v,1583543693,verilog,,,,tb_Controller,,,,,,,,
+C:/Users/willi/Documents/EECS31L/Processor/Processor.srcs/sim_1/new/tb_processor.v,1583564058,verilog,,,,tb_processor,,,,,,,,
+C:/Users/willi/Documents/EECS31L/Processor/Processor.srcs/sources_1/new/ALUController.v,1583560751,verilog,,C:/Users/willi/Documents/EECS31L/Processor/Processor.srcs/sources_1/new/Controller.v,,ALUController,,,,,,,,
+C:/Users/willi/Documents/EECS31L/Processor/Processor.srcs/sources_1/new/Controller.v,1583566977,verilog,,C:/Users/willi/Documents/EECS31L/RISC/RISC.srcs/sources_1/new/Data_mem.v,,Controller,,,,,,,,
+C:/Users/willi/Documents/EECS31L/Processor/Processor.srcs/sources_1/new/processor.v,1583602216,verilog,,C:/Users/willi/Documents/EECS31L/Processor/Processor.srcs/sim_1/new/tb_processor.v,,processor,,,,,,,,
+C:/Users/willi/Documents/EECS31L/RISC/RISC.srcs/sources_1/new/ALU.v,1583567120,verilog,,C:/Users/willi/Documents/EECS31L/Processor/Processor.srcs/sources_1/new/ALUController.v,,alu_32,,,,,,,,
+C:/Users/willi/Documents/EECS31L/RISC/RISC.srcs/sources_1/new/Data_mem.v,1583090733,verilog,,C:/Users/willi/Documents/EECS31L/RISC/RISC.srcs/sources_1/new/Datapath.v,,Data_mem,,,,,,,,
+C:/Users/willi/Documents/EECS31L/RISC/RISC.srcs/sources_1/new/Datapath.v,1583602672,verilog,,C:/Users/willi/Documents/EECS31L/RISC/RISC.srcs/sources_1/new/FlipFlop.v,,data_path,,,,,,,,
+C:/Users/willi/Documents/EECS31L/RISC/RISC.srcs/sources_1/new/FlipFlop.v,1582314606,verilog,,C:/Users/willi/Documents/EECS31L/RISC/RISC.srcs/sources_1/new/HA.v,,FlipFlop,,,,,,,,
+C:/Users/willi/Documents/EECS31L/RISC/RISC.srcs/sources_1/new/HA.v,1582664085,verilog,,C:/Users/willi/Documents/EECS31L/RISC/RISC.srcs/sources_1/new/Imm_Gen.v,,HA,,,,,,,,
+C:/Users/willi/Documents/EECS31L/RISC/RISC.srcs/sources_1/new/Imm_Gen.v,1582315988,verilog,,C:/Users/willi/Documents/EECS31L/RISC/RISC.srcs/sources_1/new/Instr_mem.v,,ImmGen,,,,,,,,
+C:/Users/willi/Documents/EECS31L/RISC/RISC.srcs/sources_1/new/Instr_mem.v,1582314276,verilog,,C:/Users/willi/Documents/EECS31L/RISC/RISC.srcs/sources_1/new/Mux.v,,InstMem,,,,,,,,
+C:/Users/willi/Documents/EECS31L/RISC/RISC.srcs/sources_1/new/Mux.v,1583085322,verilog,,C:/Users/willi/Documents/EECS31L/RISC/RISC.srcs/sources_1/new/RegFile.v,,Mux_2_To_1,,,,,,,,
+C:/Users/willi/Documents/EECS31L/RISC/RISC.srcs/sources_1/new/RegFile.v,1583085322,verilog,,C:/Users/willi/Documents/EECS31L/Processor/Processor.srcs/sources_1/new/processor.v,,RegFile,,,,,,,,
